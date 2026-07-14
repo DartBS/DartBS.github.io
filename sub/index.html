@@ -1,1 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Subscription</title>
+</head>
+<body>
 
+<h2>VPN Subscription</h2>
+
+<pre id="sub">Yükleniyor...</pre>
+
+<script>
+fetch("sub.txt")
+    .then(response => response.text())
+    .then(text => {
+        document.getElementById("sub").textContent = text;
+    })
+    .catch(() => {
+        document.getElementById("sub").textContent = "sub.txt yüklenemedi.";
+    });
+</script>
+
+</body>
+</html>
