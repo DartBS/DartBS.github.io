@@ -1,0 +1,18 @@
+#profile-title: 𝐕𝐩𝐧𝐅𝐫𝐞𝐞𝐃𝐫𝐨𝐩
+
+#!name=VpnFreeDrop
+#profile-update-interval: 1
+#profile-web-page-url: https://t.me/vpnfreedrop
+#support-url: https://t.me/vpnfreedrop
+#announce: base64: 4oCOa2FuYWw6IEB2cG5mcmVlZHJvcArigI5jaGF0OiBAdnBuZnJlZWRyb3BjaGF0CuKAjmJvdDog
+QGZyZWVzdWJzY3JpcHRpb25ib3QK4oCOd2Vic2l0ZTogbGVub3gucnVuLnBsYWNlCg==
+
+vless://cdb8c7d3-486d-44fa-a63b-dcb675391adc@94.156.122.105:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.github.com&fp=firefox&pbk=m8NlVgma3zCfxdXIzMreVvi_O4c2-lZqPh_9UHOsM1I&sid=8e99fb4fa75e506f&type=tcp&headerType=none#🇩🇪Germany
+vless://cdb8c7d3-486d-44fa-a63b-dcb675391adc@94.156.122.105:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.github.com&fp=firefox&pbk=m8NlVgma3zCfxdXIzMreVvi_O4c2-lZqPh_9UHOsM1I&sid=8e99fb4fa75e506f&type=tcp&headerType=none#🇫🇷France
+vless://cdb8c7d3-486d-44fa-a63b-dcb675391adc@94.156.122.105:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.github.com&fp=firefox&pbk=m8NlVgma3zCfxdXIzMreVvi_O4c2-lZqPh_9UHOsM1I&sid=8e99fb4fa75e506f&type=tcp&headerType=none#🇮🇹Italy
+vless://cdb8c7d3-486d-44fa-a63b-dcb675391adc@94.156.122.105:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.github.com&fp=firefox&pbk=m8NlVgma3zCfxdXIzMreVvi_O4c2-lZqPh_9UHOsM1I&sid=8e99fb4fa75e506f&type=tcp&headerType=none#🇹🇷Türkiye
+vless://cdb8c7d3-486d-44fa-a63b-dcb675391adc@94.156.122.105:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.github.com&fp=firefox&pbk=m8NlVgma3zCfxdXIzMreVvi_O4c2-lZqPh_9UHOsM1I&sid=8e99fb4fa75e506f&type=tcp&headerType=none#🇦🇿Azerbaycan
+vless://cdb8c7d3-486d-44fa-a63b-dcb675391adc@94.156.122.105:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.github.com&fp=firefox&pbk=m8NlVgma3zCfxdXIzMreVvi_O4c2-lZqPh_9UHOsM1I&sid=8e99fb4fa75e506f&type=tcp&headerType=none#🇸🇪Sweden
+vless://cdb8c7d3-486d-44fa-a63b-dcb675391adc@94.156.122.105:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.github.com&fp=firefox&pbk=m8NlVgma3zCfxdXIzMreVvi_O4c2-lZqPh_9UHOsM1I&sid=8e99fb4fa75e506f&type=tcp&headerType=none#🇺🇸United States
+vless://cdb8c7d3-486d-44fa-a63b-dcb675391adc@94.156.122.105:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.github.com&fp=firefox&pbk=m8NlVgma3zCfxdXIzMreVvi_O4c2-lZqPh_9UHOsM1I&sid=8e99fb4fa75e506f&type=tcp&headerType=none#🇬🇧United Kingdom
+vless://cdb8c7d3-486d-44fa-a63b-dcb675391adc@94.156.122.105:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.github.com&fp=firefox&pbk=m8NlVgma3zCfxdXIzMreVvi_O4c2-lZqPh_9UHOsM1I&sid=8e99fb4fa75e506f&type=tcp&headerType=none#🇨🇦Canada
