@@ -4,8 +4,10 @@
 #profile-update-interval: 1
 #profile-web-page-url: https://t.me/vpnfreedrop
 #support-url: https://t.me/vpnfreedrop
-#announce: base64: 4oCOa2FuYWw6IEB2cG5mcmVlZHJvcArigI5jaGF0OiBAdnBuZnJlZWRyb3BjaGF0CuKAjmJvdDog
-QGZyZWVzdWJzY3JpcHRpb25ib3QK4oCOd2Vic2l0ZTogbGVub3gucnVuLnBsYWNlCg==
+#announce: base64: S2FuYWw6IEB2cG5mcmVlZHJvcA==
+Q2hhdDogQHZwbmZyZWVkcm9wY2hhdA==
+Qm90OiBAZnJlZXN1YnNjcmlwdGlvbmJvdA==
+V2Vic2l0ZTogbGVub3gucnVuLnBsYWNl
 
 vless://cdb8c7d3-486d-44fa-a63b-dcb675391adc@94.156.122.105:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.github.com&fp=firefox&pbk=m8NlVgma3zCfxdXIzMreVvi_O4c2-lZqPh_9UHOsM1I&sid=8e99fb4fa75e506f&type=tcp&headerType=none#🇩🇪Germany
 vless://cdb8c7d3-486d-44fa-a63b-dcb675391adc@94.156.122.105:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.github.com&fp=firefox&pbk=m8NlVgma3zCfxdXIzMreVvi_O4c2-lZqPh_9UHOsM1I&sid=8e99fb4fa75e506f&type=tcp&headerType=none#🇫🇷France
